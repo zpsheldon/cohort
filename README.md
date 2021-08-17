@@ -16,6 +16,8 @@ We used data from tags that each person entered into distinct categories:
 - Objectives
 - Interests
 
+Note that neither the raw nor processed data are included in the repo for the sake of privacy.
+
 ### Model
 
 We used an open-source model that was trained by Google on about 100 billion words, and learned the relationships between words (i.e. king is to man as queen is to woman). 
